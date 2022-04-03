@@ -14,8 +14,9 @@
 
 [Competitive audit-Furiends](https://docs.google.com/spreadsheets/d/1pdruLOvovZ-0p6Kg3lq3QgrvKE_KDGiJU3BXhE8C0_U/edit?resourcekey=0-dCjA0PHl8JAf_1ktwv373g#gid=2073884517)👉🏻在2B调研开始（等待B方做survey期间）开始进行竞品分析，会分配至各组员进行分析
 
-建立设计规范  
-目前进行过早，需要了解stakeholders，以及用户的需求  
-可以先提前了解一些大方向：moodborad、colour、layout…  
-Stakeholders可以提前想想需求：希望我们的产品传达一个什么样的感觉  
+**建立设计规范**  
+* 目前进行过早，需要了解stakeholders，以及用户的需求  
+* 可以先提前了解一些大方向：moodborad、colour、layout…  
+* Stakeholders可以提前想想需求：希望我们的产品传达一个什么样的感觉  
+
 
