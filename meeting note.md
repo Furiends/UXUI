@@ -20,7 +20,7 @@
 
 ![UXUI 4月 plan](https://user-images.githubusercontent.com/63217923/161474871-600c106b-ada0-479c-95b0-b9b81e5535bd.png)
 
-**小组合作**：将使用[miro](https://miro.com/app/board/uXjVOADbDC0=/)进行组内合作，所有竞品调研信息，可以都update到这里，最后可能会作为在workshop展示讨论的平台。
+**小组合作**：将使用[miro](https://miro.com/app/board/uXjVOADbDC0=/)进行组内合作，所有竞品调研信息/产品相关信息，大家可以都可以自行update到这里，最后可能会作为在workshop展示讨论的平台。
 
 <br>
 
