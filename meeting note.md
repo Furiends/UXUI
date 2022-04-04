@@ -1,5 +1,5 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
-## Date: 2022.04.02 FRI
+## Date: 2022.04.03 SUN
 **问卷**：再次讨论了用户调研部分
 * 确定了最终[2B问卷](https://docs.google.com/document/d/15oi1wsZ--rXVPv7weM5oWU-R7fS-SPGzS77ofz40rPQ/edit)，按照PM的timeline进行用户调研
 <br>
@@ -23,7 +23,7 @@
 <br>
 
 
-## Date: 2022.04.02 FRI
+## Date: 2022.04.01 FRI
 ### Meeting with PM
 
 **Meeting Key Points:**   
