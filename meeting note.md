@@ -1,4 +1,26 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
+## Date: 2022.04.02 FRI
+**问卷**：再次讨论了用户调研部分
+* 确定了最终[2B问卷](https://docs.google.com/document/d/15oi1wsZ--rXVPv7weM5oWU-R7fS-SPGzS77ofz40rPQ/edit)按照PM的timeline进行用户调研
+<br>
+
+**[Competitive audit-Furiends](https://docs.google.com/spreadsheets/d/1pdruLOvovZ-0p6Kg3lq3QgrvKE_KDGiJU3BXhE8C0_U/edit?resourcekey=0-dCjA0PHl8JAf_1ktwv373g#gid=2073884517)** :需要修改现在的模板
+* 发现做2B竞品调研比较困难：国内网站可能会无法注册（需要国内手机号）、作为2B方使用平台受限（可能需要提供组织验证信息）  
+> **解决办法：**<br> 1. 找相似的indirect信息管理平台（UXUI组员可以回忆自己使用过的信息管理平台，比如：XXX公司的管理后台）<br> 2. 找网站的相关documentation来看：有些网站可能会有一些B方使用平台的doc/instructions，可以通过这些信息来了解平台B方的user flow）Example：[petfinder](https://help.petfinder.com/hc/en-us/articles/360056611014-Getting-Started-Introduction-to-the-Pro-Dashboard)<br> 3. 参考别人做的竞品分析（看其他做领养竞品分析的文章，里面可能包含别人做的相关竞品，可以参考）Example：[宠物APP竞品分析：铃铛宠物VS有宠](http://www.woshipm.com/evaluating/4348818.html) 
+
+<br>
+
+**4月plan**：PM已经给了产品大致功能设想和各组在4月需要做的事情及timeline <br>
+* 下图为PM给出的功能设想，产品第一版大概需要具备哪些功能。最后具体的功能会在UXUI收回survey，做完用户分析后，组织workshop与PM及其他相关组leader一起讨论最终功能。（根据用户反馈，可能会调整功能的优先级）
+![功能清单](https://user-images.githubusercontent.com/63217923/161474705-a680eede-4eec-4569-bf38-3703bc705fb7.png)
+
+* 下图为UXUI组4月需要做的事情，大致分为：完成用户调研、竞品分析、以及整理一些相关doc。具体的分工及Deadline以及由TPM Claire分配完毕👉🏻[此表可以查看Planning timeline](https://docs.google.com/spreadsheets/d/1xfTIdd8zJHDkJUrDygJWQcLCLondpIwflx5IZ7CjGfM/edit#gid=0)。大家如果有任何时间上/任务上需要调整的，随时联系Claire做调整！
+
+![UXUI 4月 plan](https://user-images.githubusercontent.com/63217923/161474871-600c106b-ada0-479c-95b0-b9b81e5535bd.png)
+
+**小组合作**：将使用[miro](https://miro.com/app/board/uXjVOADbDC0=/)进行组内合作，所有竞品调研信息，可以都update到这里，最后可能会作为在workshop展示讨论的平台。
+
+<br>
 
 
 ## Date: 2022.04.02 FRI
