@@ -8,6 +8,8 @@
 * 发现做2B竞品调研比较困难：国内网站可能会无法注册（需要国内手机号）、作为2B方使用平台受限（可能需要提供组织验证信息）  
 > **解决办法：**<br> 1. 找相似的indirect信息管理平台（UXUI组员可以回忆自己使用过的信息管理平台，比如：XXX公司的管理后台）<br> 2. 找网站的相关documentation来看：有些网站可能会有一些B方使用平台的doc/instructions，可以通过这些信息来了解平台B方的user flow）Example：[petfinder](https://help.petfinder.com/hc/en-us/articles/360056611014-Getting-Started-Introduction-to-the-Pro-Dashboard)<br> 3. 参考别人做的竞品分析（看其他做领养竞品分析的文章，里面可能包含别人做的相关竞品，可以参考）Example：[宠物APP竞品分析：铃铛宠物VS有宠](http://www.woshipm.com/evaluating/4348818.html) 
 
+* 现在的模板不是太实用，下来需要重新修改一下competitors以及调研方向（assign to Norma）
+
 <br>
 
 **4月plan**：PM已经给了产品大致功能设想和各组在4月需要做的事情及timeline <br>
