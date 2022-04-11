@@ -1,4 +1,13 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
+
+## Date:2022.04.10 SUN
+**用户问卷调研结果：** 发放给机构方的问卷调整，与4月9日截止。对用户结果进行了组内讨论和分析  
+* [问卷调查数据](https://docs.google.com/spreadsheets/d/1sws-2KmPS0x-sp1lqJ7aGHYMHaczdqom82j9A-fdtn8/edit#gid=0) 
+* 对问卷结果进行分析，与PM给出的功能设想进行比对，具体结论组内成员会在miro更新。并且会更新至[Furiends board](https://miro.com/app/dashboard/)
+
+**竞品调研**开始进行竞品调研，相关信息会在组内miro进行讨论，最后也会更新至[Furiends board](https://miro.com/app/dashboard/)
+
+
 ## Date: 2022.04.03 SUN
 **问卷**：再次讨论了用户调研部分
 * 确定了最终[2B问卷](https://docs.google.com/document/d/15oi1wsZ--rXVPv7weM5oWU-R7fS-SPGzS77ofz40rPQ/edit)，按照PM的timeline进行用户调研
