@@ -1,5 +1,12 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
 
+## Date:2022.04.17 SUN
+**用户问卷调研结果：** 已经全部整理在UXUI组的[Miro board](https://miro.com/app/board/uXjVOADbDC0=/) ,经过小组讨论，里面内容可搬至[Furiends board](https://miro.com/app/dashboard/)，Norma后续会做搬运。
+
+**竞品调研**：所有组员都一一分享了自己调研的结果[Competitive audit-Furiends](https://docs.google.com/spreadsheets/d/1pdruLOvovZ-0p6Kg3lq3QgrvKE_KDGiJU3BXhE8C0_U/edit?resourcekey=0-dCjA0PHl8JAf_1ktwv373g#gid=2073884517)，会总汇信息至UXUI组的[Miro board](https://miro.com/app/board/uXjVOADbDC0=/) ，通过组员review后，会搬运至[Furiends board](https://miro.com/app/dashboard/)
+
+
+
 ## Date:2022.04.10 SUN
 **用户问卷调研结果：** 发放给机构方的问卷调整，与4月9日截止。对用户结果进行了组内讨论和分析  
 * [问卷调查数据](https://docs.google.com/spreadsheets/d/1sws-2KmPS0x-sp1lqJ7aGHYMHaczdqom82j9A-fdtn8/edit#gid=0) 
