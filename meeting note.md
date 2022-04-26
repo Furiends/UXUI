@@ -1,5 +1,35 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
 
+## Date:2022.04.23 FRI
+
+Workshop with PM & Developer & Other groups：  
+* **PM大致讲述了小程序流程，以及基本feature和user flow架构讲解**
+  - 2B机构方会通过公众号有一个单独的入口
+  - MPV1主要是focus发布信息/领养人管理，账号管理（类似后台）会在第三期web端再考虑
+
+* **UXUI组简单讲述用户调研+竞品分析结果**
+  - priority 功能优先考虑结果👇🏻 
+    - P0：快速筛选合格领养人/机构自行进行领养条件排序/发布信息再次编辑 
+    - P1：黑名单查询（MVP1考虑仅提供黑名单查询功能）/黑名单共享（后期再考虑机构可以自行提交举报黑名单用户）
+    - P2：站内信
+    - 详情可查看：[Furiends board](https://miro.com/app/dashboard/)
+* 所有成员进行了brainstorming（头脑风暴）
+  - 针对需要在MVP1 体现出的重要功能（P0），所有成员给出自己认为最好的idea/solutions，并且投票选出最佳solutions。主要针对以下三点：
+    - 如何帮助机构快速筛选出合格领养人？
+    - 如何帮助机构实现可对领养流程/领养步骤进行自助排序？
+    - 如何帮助机构实现已有信息的更新和编辑？
+    - 详情可查看：[Furiends board](https://miro.com/app/dashboard/)
+
+*  技术组的senior小施给大家提出一些tips，并鼓励技术组姐妹在遇到难题时及时发出求助信号，大家可以一起多交流商量。
+
+以上信息均可观看zoom meeting录播：[recording](https://uni-augsburg.zoom.us/rec/share/_rHYldht_GRsc7rCk7I0p0boD_5AL5Q_O7LSG05omrqz1wzvg6k9mANh4-uqF-S1.H_hqB02as7WJiH1Z)  password:R@i8nLUY
+
+**To Do After Meeting:**  
+UXUI总结brainstorming大家的投票结果，得出最终的top solutions
+结合PM所给的功能架构，总结最终MVP1的feature/flow
+   
+
+
 ## Date:2022.04.17 SUN
 **用户问卷调研结果：** 已经全部整理在UXUI组的[Miro board](https://miro.com/app/board/uXjVOADbDC0=/) ,经过小组讨论，里面内容可搬至[Furiends board](https://miro.com/app/dashboard/)，Norma后续会做搬运。
 
