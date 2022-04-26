@@ -25,8 +25,8 @@ Workshop with PM & Developer & Other groups：
 以上信息均可观看zoom meeting录播：[recording](https://uni-augsburg.zoom.us/rec/share/_rHYldht_GRsc7rCk7I0p0boD_5AL5Q_O7LSG05omrqz1wzvg6k9mANh4-uqF-S1.H_hqB02as7WJiH1Z)  password:R@i8nLUY
 
 **To Do After Meeting:**  
-UXUI总结brainstorming大家的投票结果，得出最终的top solutions
-结合PM所给的功能架构，总结最终MVP1的feature/flow
+* UXUI总结brainstorming大家的投票结果，得出最终的top solutions  
+* 结合PM所给的功能架构，总结最终MVP1的feature/flow
    
 
 
