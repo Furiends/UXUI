@@ -1,7 +1,6 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
 
 ## Date:2022.04.25 SUN
-Group Meeting
 
 * 总结workshop大家的投票，得出最优solutions
 * 出了一版user flow draft (整合了PM之前列的功能需求清单 + Brainstorm Workshop中投票选出的top solution)👉🏻详情可查看：[Furiends board](https://miro.com/app/board/uXjVO6AHydU=/)
