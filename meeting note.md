@@ -25,7 +25,7 @@ Group Meeting
 ## Date:2022.04.23 FRI
 
 Workshop with PM & Developer & Other groups：  
-* **PM大致讲述了小程序流程，以及基本feature和user flow架构讲解**
+* **PM大致讲述了小程序流程，以及基本feature和user flow架构讲解** 
   - 2B机构方会通过公众号有一个单独的入口
   - MPV1主要是focus发布信息/领养人管理，账号管理（类似后台）会在第三期web端再考虑
 
