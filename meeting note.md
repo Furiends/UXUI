@@ -22,7 +22,7 @@ Group Meeting
   - 前端如何评估prototype能不能做的标准？例如:何时与前端开会review,看是否可行，不可行的话可以修改（lofi就沟通？那会不会出现lofi可行，出了hifi又说不行的情况？）i.e. design sprint每两周一次？
 
 
-## Date:2022.04.23 FRI
+## Date:2022.04.23 FRI Workshop
 
 Workshop with PM & Developer & Other groups：  
 * **PM大致讲述了小程序流程，以及基本feature和user flow架构讲解** 
