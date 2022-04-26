@@ -11,14 +11,15 @@ Group Meeting
 * 下周周中组员各自搜索一些灵感，可截图放在Miro -- Product discovery -- Moonboard中，下周例会一起讨论design system相关的事情；
 
 **Other Info:**
-* 关于Branding:希望可以和新媒体姐妹/PM/发起人等一起go thru branding interview的答案。一起探索品牌调性、定位等；
-* 关于PRD，我们希望：
- - 不需要提供交互; 
- - 希望能够提供尽量详细的信息（例如模板具体包含什么、领养人信息具体包含什么、宠物信息具体包含什么、机构信息具体包含什么）
- - 整个产品的overview （目的、value proposition、愿景、pilot是第一步，后面要做什么？参考产品价值愿景)
-* 其他UXUI组关心的问题，后续需要进一步了解：
- - 与前端的沟通方式是什么？
- - 前端如何评估prototype能不能做的标准？例如:何时与前端开会review,看是否可行，不可行的话可以修改（lofi就沟通？那会不会出现lofi可行，出了hifi又说不行的情况？）i.e. design sprint每两周一次？
+* **关于Branding:** 
+  - 希望可以和新媒体姐妹/PM/发起人等一起go thru branding interview的答案。一起探索品牌调性、定位等；
+* **关于PRD，我们希望：**  
+  - 不需要提供交互; 
+  - 希望能够提供尽量详细的信息（例如模板具体包含什么、领养人信息具体包含什么、宠物信息具体包含什么、机构信息具体包含什么）
+  - 整个产品的overview （目的、value proposition、愿景、pilot是第一步，后面要做什么？参考产品价值愿景)
+* **其他UXUI组关心的问题，后续需要进一步了解：**
+  - 与前端的沟通方式是什么？
+  - 前端如何评估prototype能不能做的标准？例如:何时与前端开会review,看是否可行，不可行的话可以修改（lofi就沟通？那会不会出现lofi可行，出了hifi又说不行的情况？）i.e. design sprint每两周一次？
 
 
 ## Date:2022.04.23 FRI
