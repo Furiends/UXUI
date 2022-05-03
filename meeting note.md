@@ -1,6 +1,7 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
 
 ## Date:2022.05.01 SUN
+* Go through developers关于user flow所给的建议，进行一定的修改
 * 总结上周与新媒体组，以及PM/stakeholders branding workshop，组内进行brainstorming
   - 整理branding keywords,找出主要的style。寻找一些相关logo example
   - 讨论branding colour，收集一些example
