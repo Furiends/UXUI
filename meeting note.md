@@ -1,5 +1,16 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
 
+## Date:2022.05.01 SUN
+* 总结上周与新媒体组，以及PM/stakeholders branding workshop，组内进行brainstorming
+  - 整理branding keywords,找出主要的style。寻找一些相关logo example
+  - 讨论branding colour，收集一些example
+
+总结和example放置于组内miro board：[Miro board](https://miro.com/app/board/uXjVOADbDC0=/)
+
+**To Do After Meeting:** 
+* 每位组员draft logo idea，以及自行寻找branding colour idea，与下周weekly meeting总汇大家的idea，给PM stakeholder我们组所建议的branding colour，以及logo draft
+
+
 ## Date:2022.04.25 SUN
 
 * 总结workshop大家的投票，得出最优solutions
