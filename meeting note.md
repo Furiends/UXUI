@@ -1,7 +1,8 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
 
 ## Date:2022.05.08 SUN
-* Go through PM和技术会上面的要点。讨论如何进行design，有系列问题待和PM以及技术反馈商量
+* Go through PM和技术会上面的要点。讨论如何进行design，有系列问题待和PM以及技术反馈商量  
+* 
 **To Do After Meeting:** 
 * 整理问题给PM和技术进行clarify
 * 根据PM和技术的反馈确定最后的flow，分配给组员开始做design
