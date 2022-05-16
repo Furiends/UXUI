@@ -1,6 +1,13 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
 
 ## Date:2022.05.08 SUN
+* Go through PM和技术会上面的要点。讨论如何进行design，有系列问题待和PM以及技术反馈商量
+**To Do After Meeting:** 
+* 整理问题给PM和技术进行clarify
+* 根据PM和技术的反馈确定最后的flow，分配给组员开始做design
+
+
+## Date:2022.05.08 SUN
 * Go through PM上周在需求会上的要点，做了一些[key point记录](https://docs.google.com/document/d/1SXiyOGRe5qDqrd3pGjU-D5ko7kmQI5icICVuJ0ig5vs/edit?usp=sharing)
 待PM这周做了功能拆分，周末和技术讨论可实施性以及确定最后开发流程，根据PM拆分的部分，开始做design。
 * 继续讨论了Logo,放置于组内miro board：[Miro board](https://miro.com/app/board/uXjVOADbDC0=/).因有组员有事未能参加meeting，所以等组员后续update了logo design,最后finalize选出我们组对logo的建议，再给stakeholders和pm看，做最后的决定。
