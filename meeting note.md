@@ -1,6 +1,16 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
 
-## Date:2022.05.08 SUN
+## Date:2022.05.22 SUN
+* 完成机构信息的wireframe线形图（下图部分），确定这部分最终的flow和一些design细节。
+<img width="1629" alt="image" src="https://user-images.githubusercontent.com/63217923/169915592-6df25ab3-c93b-48dc-99d7-6c934eceead1.png">
+<img width="668" alt="image" src="https://user-images.githubusercontent.com/63217923/169915662-e08d11dc-1b13-44dd-abb5-2f62c0c7f507.png">
+
+**To Do After Meeting:**   
+
+完成Lo-Fi，预计这周末交付给developers
+
+
+## Date:2022.05.15 SUN
 * Go through PM和技术会上面的要点。讨论如何进行design，有系列问题待和PM以及技术反馈商量  
 
 **To Do After Meeting:** 
