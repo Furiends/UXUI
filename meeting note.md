@@ -1,5 +1,12 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
 
+## Date:2022.05.29 SUN
+* 最终lo-fi定稿
+
+**To Do After Meeting:**   
+* 交付给dev
+* Chole 会后续负责 logo 设计和brand colour的选择
+
 ## Date:2022.05.22 SUN
 * 完成机构信息的wireframe线形图（下图部分），确定这部分最终的flow和一些design细节。
 <img width="1629" alt="image" src="https://user-images.githubusercontent.com/63217923/169915592-6df25ab3-c93b-48dc-99d7-6c934eceead1.png">
