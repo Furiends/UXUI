@@ -1,5 +1,15 @@
 [Original Meeting Agenda](https://docs.google.com/document/d/1ob_9Rek4Gk-EXdqsmXEm0MgS-WmW5hzyvoC3-voEPKI/edit#)  
 
+## Date:2022.06.22 WED
+
+* go through 小组成员第二部分的lo-fi
+* chole交付 logo 和 brand colour，大家一起讨论
+
+**To Do After Meeting:**   
+
+* 修改lo-fi，修改完毕后交付给dev，组会进行讨论
+* 交付logo和brand colour，收集大家反馈意见。
+
 ## Date:2022.05.29 SUN
 * 最终lo-fi定稿
 
